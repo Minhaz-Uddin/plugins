@@ -1,0 +1,53 @@
+				/*roundslider*/
+.rs-control .rs-range-color {
+    background-color: #54BBE0;
+}
+.rs-control .rs-path-color {
+    background-color: white;
+}
+.rs-control .rs-handle {
+    background-color: #838383;
+}
+.rs-control .rs-bg-color {
+    background-color: white;
+}
+
+.round{
+	margin-right: 500px;
+	margin-left: 500px;
+	
+}
+
+				/*roundslider*/
+
+				/*slinky*/
+
+
+				/*slinky*/
+
+
+				/*parallax*/
+.parallax-window {
+    min-height: 500px;
+    background: transparent;
+}
+p{
+	background-color: lightblue;
+}
+			/*parallax*/
+
+	
+			/*owl carasal*/
+
+		.owl-carousel{
+			
+			padding-top:10px;
+		}
+		.im{
+			padding: 5px;
+		}
+				/*owl carasal*/
+
+img{
+	width: 100%;
+}
